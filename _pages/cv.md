@@ -11,30 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* J.S.D., University of Illinois at Urbana-Champaign College of Law, 2016
+* LL.M., University of Illinois at Urbana-Champaign College of Law, 2013
+* B.S. in Industrial Engineering, Beihang University, 2011
+* LL.B. in Industrial Engineering, Beihang University, 2011
 
-Work experience
+Academic Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* University of Science and Technology Beijing, School of Humanities and Social Science
+  * Associate Professor, Feb. 2021-Present
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Chicago-Kent College of Law, Illinois Institute of Technology
+  * Empirical IP Fellow, Aug. 2018 – Aug. 2020
+  * Research Affiliate at the Department of Empirical IP, Sep. 2020 – Feb. 2021
+
+* Chicago-Kent College of Law, Illinois Institute of Technology
+  * Empirical IP Fellow, Aug. 2018 – Aug. 2020
+  * Research Affiliate at the Department of Empirical IP, Sep. 2020 – Feb. 2021
+
+* University of Illinois at Urbana-Champaign College of Law
   
-Skills
+Bar Admission
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* New York & China.
 
 Publications
 ======
