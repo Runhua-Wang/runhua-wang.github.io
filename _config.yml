@@ -9,7 +9,7 @@
 locale                   : "zh-CN"
 title                    : "Runhua Wang /王润华"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Runhua Wang"
 description              : &description "personal description"
 url                      : https://runhua-wang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Runhua Wang"
   avatar           : "profile.png"
-  bio              : "Associate Professor of Laws"
+  bio              : "Associate Professor of Law"
   location         : "Beijing, China"
   employer         : 
  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
