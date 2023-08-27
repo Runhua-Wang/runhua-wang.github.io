@@ -7,10 +7,10 @@ main:
     url: /publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks1/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching1/    
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: /year-archive1/
