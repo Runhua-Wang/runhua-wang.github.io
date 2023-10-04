@@ -40,11 +40,11 @@ Cybertheft,” NYU Journal of Intellectual Property & Entertainment Law Blog, Ap
 available at [here](https://blog.jipel.law.nyu.edu/2021/04/collaborating-with-the-federal-system-in-protecting-against-international-cybertheft/).
 * Runhua Wang, “Patent Transaction and Patent Financing in China: The Difficulties and Opportunities 
 for Third-Party Service Providers,” Timely Tech, Journal of Law, Technology and Policy (JLTP), Mar. 22, 2017, available at
-[here](http://illinoisjltp.com/timelytech/patent-transaction-and-patent-financing-in-china-the-difficulties-andopportunities-for-third-party-service-providers/).
+[here](https://illinoisjltp_com.cybertest.link/practical-pieces-and-perspectives/article/2017/03/patent-transaction-and-patent-financing-in-china-the-difficulties-and-opportunities-for-third-party-service-providers).
 * Runhua Wang, “Stimulating Technical Innovation by Small and Medium-Sized Enterprises in China,” 
-July 11, 2016 (J.S.D. Dissertation, on file with University of Illinois at Urbana-Champaign), available at [here](https://www.ideals.illinois.edu/handle/2142/92906). 
+July 11, 2016 (J.S.D. Dissertation, on file with University of Illinois at Urbana-Champaign), available at [here](https://www.ideals.illinois.edu/handle/2142/92906/). 
 * Runhua Wang, “Utility Models Revisited: The Case of Investing in China,” Timely Tech, Journal of 
-Law, Technology and Policy (JLTP), Nov. 6, 2015, available at [here](http://illinoisjltp.com/timelytech/utility-models-revisited-the-case-of-investing-in-china/).
+Law, Technology and Policy (JLTP), Nov. 6, 2015, available at [here](https://illinoisjltp_com.cybertest.link/practical-pieces-and-perspectives/article/2015/11/utility-modelsrevisited-the-case-of-investing-in-china/).
 
 ### News
 * Runhua Wang, “Why Does LG Continuously Sue Chinese Companies?: Punitive Damages for Patent Cases in the U.S.,” China Intellectual Property News, Nov. 27, 2019 (in Chinese).
