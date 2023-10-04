@@ -7,13 +7,12 @@ author_profile: true
 
 ### Conference Presentations
 
+* “Is Ex-Post Patent Holdup Real in Standard Settings? Evidence from SEP Declarations and Involvement in 3GPP Standard Development,” 2023 European Policy for Intellectual Property, Jagiellonian University, Kraków, Poland, Sep. 12, 2023.
 * “Is Ex-Post Patent Holdup Real in Standard Settings? Evidence from SEP Declarations and 
 Involvement in 3GPP Standard Development,” 2023 Intellectual Property Scholars Conference, 
 Yeshiva University, Cardozo School of Law, New York City, Aug. 4, 2023.
 * “Safe Harbors for NFT Platforms Under IP Law,” 15th Annual Intellectual Property Conference, The 
 Chinese University of Hong Kong, Hong Kong, July 29, 2023.
-* “Intellectual Property in Metaverses: Problems, Policies, and Laws,” WIPO Program, Remin 
-University, Beijing, July 20, 2023.
 * “Copyright Licenses for NFTs in the Metaverse: Characteristics, Examples, and Problems,”
 Metaverse Law Conference, The Chinese University of Hong Kong, Hong Kong, March 14, 2023. 
 * “Solving Trade Secret Disputes in Chinese Courts: Some Empirical Evidence” & “Advantages and 
@@ -46,8 +45,6 @@ Stanford (Virtual Panels), Aug. 8-9, 2020.
 * “Big Data and Empirical Studies on Intellectual Property in the U.S.,” Shanghai International College 
 of Intellectual Property of Tongji University, Shanghai (Virtual Panels), May 28, 2020.
 * “The Use of incoPat Patent Litigation Data,” incoPat Group Co., Online, May 13, 2020.
-* Guest lectured on Comparative Law, Chicago-Kent College of Law, Chicago, March. 23, 2020.
-* Guest lectured on The TRIPS Agreement, Chicago-Kent College of Law, Chicago, Nov. 20, 2019. 
 * “New Private Law? Intellectual Property ‘Common-Law Precedents’ in China,” 10th Annual Asia 
 Pacific Innovation Conference, Peking University, Beijing, China, Oct. 10-11, 2019.
 * “New Private Law? Intellectual Property ‘Common-Law Precedents’ in China,” 5th Annual Texas 
@@ -63,13 +60,10 @@ Annual Conference on Innovation Economics, Northwestern Pritzker School of Law, 
 National University of Singapore, Singapore, June 11-12, 2019. 
 * “The Chinese Path of the Law with Quasi-Precedents,” ASIL Junior Senior Workshop, Washington 
 and Lee School of Law, Lexington, Virginia, May 13, 2019.
-* Guest lectured on Law and Judicial System in China: A Comparative View, Chicago-Kent College of 
-Law, Chicago, April 1, 2019.
 * “The Chinese Path of the Law with Quasi-Precedents,” Center for the Protection of Intellectual 
 Property Thomas Edison Meeting, Orlando, Florida, Jan. 17-18, 2019.
 * “How Do Patent Subsidies Drive Patenting by SMEs,” 9th Annual Asia Pacific Innovation
 Conference, Delhi School of Economics, Delhi, India, Dec. 13-14, 2018. 
-* Guest lectured on The TRIPS Agreement, Chicago-Kent College of Law, Chicago, Nov. 21, 2018. 
 * “How Do Pro-Patent Policies in China Drive Patenting by SMEs?” IP Faculty Workshop, 
 Chicago-Kent College of Law, Chicago, Nov. 16, 2018.
 * “Do Tax Policies Drive SMEs’ R&D in China?” 13th Annual Conference on Empirical Legal Studies, 
@@ -95,7 +89,21 @@ School of Law, Singapore, Jan. 28, 2016.
 * “Stimulating Technical Innovation by SMEs in China: A Case Study of the Zhongguan-Cun Science 
 Park,” 4th Annual Western Empirical Legal Studies Conference, UCLA School of Law, Los Angeles, 
 Mar. 7, 2015. 
+
+### Guest Lectures
+
+* Guest lectured on International IP, China National Intellectual Property Administration, Sep. 22, 2023.
+* Guest lectured on “Intellectual Property in Metaverses: Problems, Policies, and Laws,” WIPO Program, Remin 
+University, Beijing, July 20, 2023.
+* Guest lectured on Comparative Law, Chicago-Kent College of Law, Chicago, March. 23, 2020.
+* Guest lectured on The TRIPS Agreement, Chicago-Kent College of Law, Chicago, Nov. 20, 2019.
+* Guest lectured on Law and Judicial System in China: A Comparative View, Chicago-Kent College of 
+Law, Chicago, April 1, 2019.
+* Guest lectured on The TRIPS Agreement, Chicago-Kent College of Law, Chicago, Nov. 21, 2018. 
+
+
 ### Interviews
+
 * “Chinese Enterprises Shall Prepare to Strengthen Technology Reserve,” China Intellectual Property 
 News, June 6, 2016 (in Chinese).
 * “Can Patents Help Huawei Expand Territories in the U.S.?” China Intellectual Property News, July 
