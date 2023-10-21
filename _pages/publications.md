@@ -5,7 +5,8 @@ author_profile: true
 ---
 
 ### RESEARCH ARTICLES
-* Runhua Wang, Jyh-An Lee, Jingwen Liu, “Governing the NFT Market by Static and Dynamic IP Laws,” <i>American Business Law Journal</i>, Vol.61, Issue1 (forthcoming 2024).
+* Runhua Wang, Jyh-An Lee, Jingwen Liu, “Thriving NFTs in the Shadow of IP Law,” <i>American Business Law Journal</i>, Vol.61, Issue 1 (forthcoming 2024).
+* Runhua Wang, "How Do Patent Subsidies Drive SMEs to Patent? Evidence from China," <i> Journal of Development Effectiveness (forthcoming 2024).
 * Runhua Wang & Jay Kesan, “Do Tax Policies Drive Innovation by SMEs in China?” <i>Journal of Small Business Management</i>, Vol.60, Issue 2 (2022).
 * Runhua Wang, “Modify State ‘Piracy’ After Allen: Introducing ‘Apology’ to the U.S. Copyright Regime”, <i>Buffalo Law Review</i>, Vol. 69, Issue 2 (2021). 
 * Runhua Wang, “Information Asymmetry and the Inefficiency of Informal IP Strategies Within Employment Relationships,” <i>Technological Forecasting & Social Change</i>, Vol. 162, (Jan. 2021).
